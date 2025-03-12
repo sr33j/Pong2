@@ -1,0 +1,14 @@
+Here's the content for static/style.css:
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+canvas {
+    border: 1px solid white;
+}
